@@ -38,7 +38,7 @@ A | 0 | B | F        Z | X | C | V
 
 ## Sources
 
-- @skatiyar [repo](https://github.com/skatiyar/go-chip8) for sdl code inspiration
+- [skatiyar](https://github.com/skatiyar) [repo](https://github.com/skatiyar/go-chip8) for sdl code inspiration
 - [How to write an emulator chip-8 interpreter](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 - [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
 - [Chip-8 opcode table](https://en.wikipedia.org/wiki/CHIP-8)
