@@ -73,9 +73,9 @@ func main() {
 				for i := 0; i < len(vector[j]); i++ {
 					// Values of pixel are stored in 1D array of size 64 * 32
 					if vector[j][i] != 0 {
-						canvas.SetDrawColor(255, 255, 0, 255)
+						canvas.SetDrawColor(255, 255, 255, 255)
 					} else {
-						canvas.SetDrawColor(255, 0, 0, 255)
+						canvas.SetDrawColor(0, 0, 0, 255)
 					}
 					canvas.FillRect(&sdl.Rect{
 						Y: int32(j) * modifier,
